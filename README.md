@@ -76,22 +76,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ## 🐼 Floating Pandas Animation
 
-<div align="center" style="position: relative; width: 300px; height: 150px; background: radial-gradient(circle, #5a2ea6 0%, #1a0a3e 80%); border-radius: 20px; filter: drop-shadow(0 0 20px #7e4bd9); display: flex; justify-content: space-around; align-items: center; margin: auto;">
-  <span style="font-size: 64px; animation: float 4s ease-in-out infinite;">🐼</span>
-  <span style="font-size: 64px; animation: float 4s ease-in-out infinite 1.5s;">🐼</span>
-  <span style="font-size: 64px; animation: float 4s ease-in-out infinite 3s;">🐼</span>
-</div>
+<p align="center">
+  <img src="https://your-image-host.com/floating-pandas.gif" width="300" />
+</p>
 
-<style>
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-20px);
-    }
-  }
-</style>
 
 ---
 
