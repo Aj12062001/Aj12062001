@@ -62,9 +62,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation]([https://raw.githubusercontent.com/Aj12062001/Aj12062001/output/github-contribution-grid-snake.svg](https://github.com/Aj12062001/Aj12062001/blob/main/dist/github-contribution-grid-snake.svg))
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Aj12062001/Aj12062001/output/github-contribution-grid-snake.svg)
 
 ---
 
