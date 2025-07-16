@@ -74,13 +74,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ---
 
-## 😄 Fun Section
-
-### 😂 Random Dev Joke
-
-![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
-
----
 
 ## 🌐 Let's Connect
 
