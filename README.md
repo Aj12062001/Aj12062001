@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Front-end and full-stack projects
-- 🌱 Learning: React.js, Node.js, Express, MongoDB
-- 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap, Git
+- 🔭 I’m currently working on: Cryptography project
+- 🌱 Learning: React.js, Node.js
+- 💬 Ask me about: HTML, CSS, JavaScript, c
 - 📫 Email me at: [ajinjose2019@gmail.com](mailto:ajinjose2019@gmail.com)
 - ⚡ Fun fact: I enjoy simplifying complex UI into intuitive designs!
 
