@@ -77,10 +77,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 ## 😄 Fun Section
 
 ### 🎉 Animated Dev Wallpaper
-
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" height="auto" alt="Live Wallpaper" />
+  <img src="https://media.giphy.com/media/Yk0ZLdTjQAHvK/giphy.gif" width="100%" alt="Rocket Launch Background" />
 </p>
+
+
 
 
 
