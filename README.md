@@ -74,9 +74,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300" alt="Floating Pandas Animation" />
-</p>
+
 
 
 ## 🌐 Let's Connect
