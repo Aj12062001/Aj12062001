@@ -76,9 +76,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ## 😄 Fun Section
 
+### 🎉 Animated Dev Wallpaper
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="auto" alt="Live Wallpaper" />
+</p>
+
 ### 😂 Random Dev Joke
 
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+
 
 ---
 
