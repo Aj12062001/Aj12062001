@@ -77,8 +77,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 ## 🐼 Floating Pandas Animation
 
 <p align="center">
-  <img src="https://i.imgur.com/8yJjFkF.gif" width="300" alt="Floating Pandas Animation" />
+  <img src="https://i.imgur.com/NxkXW9Z.gif" width="300" alt="Floating Pandas Animation" />
 </p>
+
 
 
 ---
