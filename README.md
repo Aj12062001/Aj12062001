@@ -72,27 +72,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ![Snake animation](https://github.com/Aj12062001/Aj12062001/blob/main/dist/github-contribution-grid-snake.svg)
 
----
-
-## 🐼 Floating Pandas Animation
-
-<p align="center">
-  <img src="https://i.imgur.com/NxkXW9Z.gif" width="300" alt="Floating Pandas Animation" />
-</p>
 
 
 
----
-
-## 🐶 Visitors Puppy Counter
-
-<div align="center" style="font-size: 36px; margin-top: 20px;">
-  <!-- Static puppy badge simulating visitor count (replace username) -->
-  <img src="https://img.shields.io/badge/Visitors-🐶🐶🐶🐶🐶%20(500%20visits)-purple?style=for-the-badge" alt="Visitors Puppy Counter" />
-  <p style="font-size: 14px; color: #888;">*1 puppy = 100 visits (static badge example)*</p>
-</div>
-
----
 
 ## 🌐 Let's Connect
 
