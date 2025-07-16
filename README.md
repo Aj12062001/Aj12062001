@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ajin;I'm+a+Web+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Aj12062001)
 **Aj12062001/Aj12062001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
