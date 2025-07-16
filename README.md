@@ -74,6 +74,36 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 
 ---
 
+## 🐼 Floating Pandas Animation
+
+<div align="center" style="position: relative; width: 300px; height: 150px; background: radial-gradient(circle, #5a2ea6 0%, #1a0a3e 80%); border-radius: 20px; filter: drop-shadow(0 0 20px #7e4bd9); display: flex; justify-content: space-around; align-items: center; margin: auto;">
+  <span style="font-size: 64px; animation: float 4s ease-in-out infinite;">🐼</span>
+  <span style="font-size: 64px; animation: float 4s ease-in-out infinite 1.5s;">🐼</span>
+  <span style="font-size: 64px; animation: float 4s ease-in-out infinite 3s;">🐼</span>
+</div>
+
+<style>
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+</style>
+
+---
+
+## 🐶 Visitors Puppy Counter
+
+<div align="center" style="font-size: 36px; margin-top: 20px;">
+  <!-- Static puppy badge simulating visitor count (replace username) -->
+  <img src="https://img.shields.io/badge/Visitors-🐶🐶🐶🐶🐶%20(500%20visits)-purple?style=for-the-badge" alt="Visitors Puppy Counter" />
+  <p style="font-size: 14px; color: #888;">*1 puppy = 100 visits (static badge example)*</p>
+</div>
+
+---
 
 ## 🌐 Let's Connect
 
