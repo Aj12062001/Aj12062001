@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for clean d
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: a **Cryptography project**
-- 🌱 Currently learning: **React.js**, **Node.js**
 - 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **C**
 - 📫 Reach me at: [ajinjose2019@gmail.com](mailto:ajinjose2019@gmail.com)
 - ⚡ Fun fact: I love turning complex UI into intuitive experiences
